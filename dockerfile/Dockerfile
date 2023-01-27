@@ -12,10 +12,14 @@ RUN wget --no-check-certificate https://www.python.org/ftp/python/3.9.5/Python-3
     && make install
 
 RUN apt-get autoremove -y
+RUN pip3 install jupyterlab
 RUN pip3 install --upgrade pip
 RUN pip3 install --upgrade pip
 RUN pip3 install numpy
 RUN pip3 install pandas
+RUN pip3 install tensorflow
+RUN pip3 install keras
+
 #RUN pip install torch torchvision
 
 
