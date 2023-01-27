@@ -1,0 +1,16 @@
+API_NAME : saito_creativehack
+
+API_KEY:hophVgLGWBfTJLaqD9E0pSyO1
+
+API_KEY_Secret:67gkgbvLlfIIr8j1nSW1VCss1OVUK66vs00dAXqZ7VWYUTKGBX
+
+Bearer Token : AAAAAAAAAAAAAAAAAAAAAOc0lAEAAAAA%2B8NCeZ%2F9nwZOgv6YsVuviCfjtBc%3DNSDGCyTKYJf7gutZEWNIjxuDjGYZM0dY690Cpm3r9sFSwHYnqJ
+
+Client ID : ajh5M2NBNjh1SjJnTGtLak5sTFY6MTpjaQ
+Client Secret : kProYRGXlmnyLfaLYqT0EXogkOxLMeRE3idq0XWIA-y1I6loVf
+
+アクセストークン：1611281223095300102-KrgKZvwMVrjh4QuX2q1uDKwHeJqUzl
+アクセストークンシークレット：9dbM9QTVa1wxAZnmOtwLF1u84wSQVbrWlDoA3G66TS48s
+
+
+Consumer key : hophVgLGWBfTJLaqD9E0pSyO1
