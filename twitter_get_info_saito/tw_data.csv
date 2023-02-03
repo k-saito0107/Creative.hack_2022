@@ -1,0 +1,177 @@
+﻿ツイートID,ツイート時刻,ツイート本文,いいね数,リツイート数,ID,ユーザー名,アカウント名,自己紹介文,フォロー数,フォロワー数,アカウント作成日時,自分のフォロー状況,アイコン画像URL,ヘッダー画像URL,WEBサイト
+1621035795229577224,2023-02-02_15:40:25,会員登録不要、無料で始められる「Python」学習環境「PyWeb」がベータ公開／WebブラウザーさえあればOK https://t.co/nz1iaTzpWS https://t.co/vp31R8H8Hj,97,45,45548519,madonomori,窓の杜,オンラインソフト紹介サイト“窓の杜”公式Twitterアカウントです。個別の返信は原則として致しませんが、コメントやDMは編集部一同で読ませていただきます。,587,62849,2009-06-08_20:50:52,False,http://pbs.twimg.com/profile_images/455934939234451456/gJW7YnRx_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,https://t.co/zB6dWcPHqw
+1620693256534372352,2023-02-01_16:59:18,無料でPythonを実行・学習できるWebサービス「PyWeb」が公開　ほか ～20件を掲載（2月1日のダイジェストニュース） https://t.co/XgfRJiQAEx https://t.co/H2Tllmjotp,180,46,45548519,madonomori,窓の杜,オンラインソフト紹介サイト“窓の杜”公式Twitterアカウントです。個別の返信は原則として致しませんが、コメントやDMは編集部一同で読ませていただきます。,587,62849,2009-06-08_20:50:52,False,http://pbs.twimg.com/profile_images/455934939234451456/gJW7YnRx_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,https://t.co/zB6dWcPHqw
+1620678633298989059,2023-02-01_16:01:11,今日の東京は4012人 https://t.co/SHAIctzxHN https://t.co/aWfCwOSGFS,33,26,28894757,h_okumura,Haruhiko Okumura,奥村晴彦＠三重大学名誉教授（ときどき非常勤講師）。転載はご自由に（CC BY）,611,34259,2009-04-05_08:33:18,False,http://pbs.twimg.com/profile_images/1171047952246165504/vyk-_q2q_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,https://t.co/mQ35AQcKnk
+1621055531397025798,2023-02-02_16:58:51,"vector_neologdのmodel.vecを
+①gensimで読み込む
+②pickle化したものを読み込む
+という2つの手法で所要時間を計測してみたところ、②の方が速かったです。
+単語の足し引きを①②両方で試しましたが、同じ結果が出ました。
+#Python #プログラミング #自然言語処理",0,0,1162675696855998464,superfire777,SUPERFIRE777,"ただのPythonが好きな高3です。
+自然言語処理に興味あります。
+いつかプログラミング言語を作ってみたいと思っています。",132,99,2019-08-17_19:41:12,False,http://pbs.twimg.com/profile_images/1591957944639393801/IeI1diD0_normal.jpg,,https://t.co/HOzf9dMOhP
+1621055418876465152,2023-02-02_16:58:24,"RT @paiza_official: プレイはすべて無料！
+Python、PHP、JavaScript、Ruby、C#など28言語で挑戦できるプログラミングゲーム！
+
+異世界に勇者パーティーとして召喚された新人ITエンジニアの男女が2人ーー
+目覚めるとそこは、剣（コード）と魔…",0,4,1312736424307777539,Rikuto_Asai,takahiro_yamazaki＠病んでる,30代男性/人見知り/自閉症/統合失調症/不安障害/イラスト/ゲーム/海外FX/テクニカル分析にこだわり/水平線使った山谷を意識したトレードしています/ #gemforex,1669,874,2020-10-04_21:49:58,False,http://pbs.twimg.com/profile_images/1547568237759836160/NIdWhUcJ_normal.jpg,,https://t.co/2XL61Xz958
+1621055414350794753,2023-02-02_16:58:23,"Mayaではpythonコマンドも使用できる。
+
+pythonはシンプルでわかりやすいため広く使われている言語で、モジュール(追加機能)も多数存在する。
+
+melコマンドのpython版も存在するため、melに慣れてきたらこちらも勉強してみよう。
+なんならこちらから始めてもよし。",0,0,1256436439,mayakisobot,Mayaの基本bot,,0,32,2013-03-10_17:06:41,False,http://pbs.twimg.com/profile_images/1192822815369650177/NZiYa70B_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,
+1621055150306762753,2023-02-02_16:57:20,"RT @TryPython: 2023-02-02 16:56:29 のおすすめのアイテムは↓ 
+お家時間を有効にクリエイティブに Pythonではじめるデスクトップアプリ開発入門 https://t.co/eExLah7lfY",0,1,1429957823589277697,Pythonlearnin11,Python learning,ぱいそんの練習,183,194,2021-08-24_09:05:52,False,http://pbs.twimg.com/profile_images/1429958217019256833/SUziciJH_normal.jpg,,
+1621055086020509697,2023-02-02_16:57:04,"RT @take_tech_engin: PyTorchのDataloaderで発生するメモリリーク（大量消費）について、詳しく説明された記事。たぶんPyTorch扱ったことある人は、一度は遭遇すると思うので参考に
+https://t.co/G6pN7h7kTO
+#PyTorc…",0,14,1371551211351121920,PythonRoboto,Python Roboto,"Retweeting all things coding (with a focus on Python).  Use #python, #100DaysOfCode for retweet
+
+Created by @MingjuRoberts",2,3390,2021-03-16_04:58:04,False,http://pbs.twimg.com/profile_images/1371892796655861763/6t8UC_jf_normal.jpg,,https://t.co/XaBT4gNO1R
+1621054945469558784,2023-02-02_16:56:31,RT @h_okumura: 今日の東京は3502人 https://t.co/SHAIctzxHN https://t.co/ZnGepErpg1,0,9,892287411840925696,J_Phil_X,J-フィル,"荒木飛呂彦／大亜門／久米田康治／松井優征／空知英秋
+Nikola Tesla（ニコラ・テスラ）／薬理凶室
+
+Twilog : https://t.co/t5NzFtIqJH",527,111,2017-08-01_16:34:31,False,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,
+1621054943431122944,2023-02-02_16:56:30,"2023-02-02 16:56:29 のおすすめのアイテムは↓ 
+お家時間を有効にクリエイティブに Pythonではじめるデスクトップアプリ開発入門 https://t.co/eExLah7lfY",2,1,1371788620009381892,TryPython,TRY_PYTHON_TRY,※このアカウントはBOTになりました。,567,323,2021-03-16_20:41:38,False,http://pbs.twimg.com/profile_images/1371790075923623939/70zB-Xnt_normal.jpg,,
+1621054809339224064,2023-02-02_16:55:58,"RT @ULUNTA2: 誰かがQUEST 盛り上げよう的なツイートしていたので久々に立ててみました。気長にやります。
+
+symbol×pythonを使った記事を2か月で6本書く | QUEST https://t.co/YdjvapeldW #symbol #python #…",0,14,1422380788339810315,QUESTofficial5,QUEST official,"仮想通貨で投げ銭できるストリーマー向けプラットフォーム「QUEST」の公式Twitterアカウントです。
+
+開発者→@hanatyan128
+リリース→https://t.co/sPAd25itMO
+ReQUEST→https://t.co/cpJRa5fIGw
+
+NB2UYBR37CE7FVQAMB3IGWVESFHRSCSL7DAKSTQ",136,628,2021-08-03_11:16:35,False,http://pbs.twimg.com/profile_images/1422381650118275073/La9gfrHB_normal.jpg,,https://t.co/By0a3g9vzM
+1621054699712679937,2023-02-02_16:55:32,"@有識者
+
+c言語or pythonのおすすめ参考書的なやつ",1,0,737402773046583297,uiro2001,うい,ぺんぎんとおふとんとつなまよおにぎり QUaverR3,576,238,2016-05-31_06:58:16,False,http://pbs.twimg.com/profile_images/1552897664609443840/20kLCglw_normal.jpg,,
+1621054672936255491,2023-02-02_16:55:26,Pythonに切れ散らかしそうだし、これらか簡単なもの作るときはTSとか使ってみようかな,0,0,3098423136,seaoftrees08,Seaoftrees08,"日本語力のない日本人。多分AMDユーザー。 
+RT多めでエロ画とか横流しすることあるのはご了承を(必要ならミュートすべし！)。
+最近は原神とStudioOneをよくやっている。
+wowsはLFSというクランに所属。IGN:Seaoftrees08
+駆逐艦はかわいい。
+※このアカウントの発言はすべて個人の見解です",422,315,2015-03-20_09:05:48,False,http://pbs.twimg.com/profile_images/889138468026294273/3w4EV77a_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,https://t.co/FBedmUZfQV
+1621054598554460161,2023-02-02_16:55:08,"RT @take_tech_engin: PyTorchのDataloaderで発生するメモリリーク（大量消費）について、詳しく説明された記事。たぶんPyTorch扱ったことある人は、一度は遭遇すると思うので参考に
+https://t.co/G6pN7h7kTO
+#PyTorc…",0,14,163955765,kiminagino,君凪　聖,最近はpythonが至高だと思う。仕事は別でプログラム書きたい、そんな年頃。AI勉強中。,409,66,2010-07-08_02:50:16,False,http://pbs.twimg.com/profile_images/731122815185780737/7uf-597U_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,
+1621054581516926976,2023-02-02_16:55:04,RT @nsktdeluxe: @mackey429dog 楽しいおっPython！,0,1,1371551211351121920,PythonRoboto,Python Roboto,"Retweeting all things coding (with a focus on Python).  Use #python, #100DaysOfCode for retweet
+
+Created by @MingjuRoberts",2,3390,2021-03-16_04:58:04,False,http://pbs.twimg.com/profile_images/1371892796655861763/6t8UC_jf_normal.jpg,,https://t.co/XaBT4gNO1R
+1620678585680887808,2023-02-01_16:01:00,"📣 新着記事
+
+Raspberry Pi で小型LCDを動かす @AirpocketRobot
+#ILI9341 #Python #RaspberryPi #opencv
+https://t.co/CA31XR4KHG",2,1,1004559001361645568,elchika_info,elchika公式,"オープンに技術交換が行われるハードウェアの開発者コミュニティ
+「elchika (エルチカ)」の公式アカウントです。
+
+IoTを活用したスマートホーム、AIやセンサーを用いたロボット、FPGAなどのスキルを共有することで、新しいテクノロジーの発見に役立ちます。
+
+記事の紹介やイベント情報などをお知らせします！",406,1859,2018-06-07_12:01:44,False,http://pbs.twimg.com/profile_images/1177517103810662400/6KrAftdY_normal.jpg,,https://t.co/PyAO6AdioD
+1620678532245643264,2023-02-01_16:00:47,"プログラミング初心者がPython Hackerになるまでに読むべき本まとめhttps://t.co/OABHuZ1qFX ##PHP,#Laravel,#Java,#エンジニア,#プログラマ",1,0,4485056533,nestplus2,nest＋＋,IT エンジニアとして、 成長を求める人々の居場所であり続ける。,4820,2851,2015-12-07_19:28:24,False,http://pbs.twimg.com/profile_images/673812049432985601/pYPuJ_3s_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,https://t.co/KH3vzJ5jTf
+1620678509881425921,2023-02-01_16:00:42,"RT @kakedashiman1: バーチャートレースは、ランキング系の動画で利用されます。
+
+作成方法として、以下があります。・flourish : 無料でバーチャートレースを作成できるWebサービス
+・bar_chart_race : バーチャートレースをPythonで作…",0,2,1585198001940680705,se_forest,集まれ！プログラミングの森,"#駆け出しエンジニアと#プログラミング初心者の情報を集約するアカウント.
+フォローすることで周囲の状況を確認できます.
+（DMリクエストによるアンケート調査やSE/PG関連の記事投稿を実施します）",29,1009,2022-10-26_18:13:56,False,http://pbs.twimg.com/profile_images/1585198137072766976/Z6fwe9l9_normal.png,,https://t.co/mXrc30KpHF
+1620678381422645248,2023-02-01_16:00:11,ラズベリーパイより、2月1日16時0分の空模様と気温 -5.000℃ #raspberrypi #python #fswebcam #photo #北海道 #オホーツク #イマソラ https://t.co/2sVCo1gPOI,1,0,128875980,shima_farm,島貫農園,ラズベリーパイから愛を込めて。 定点カメラからの空模様と 温度をつぶやきます。,31,93,2010-04-02_22:23:51,False,http://pbs.twimg.com/profile_images/1297111818582683648/0Tm6j8Ar_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,https://t.co/yBHhhcxP3n
+1620678376452415488,2023-02-01_16:00:10,"2023/02/01 16:00のトレンド1位は #オラオラ連打チャレンジ !! #python, #Mecab, #wordcloud https://t.co/qeWaf1NQAH",1,0,1573193826520666113,PythonBot0728,トレンド可視化bot（仮）,2時間おきに日本の #トレンド一位 に関するツイートを可視化します。形態素分析は #Mecab 、データの可視化には #wordcloud を使用。#Python,1580,576,2022-09-23_15:13:38,False,http://pbs.twimg.com/profile_images/1585666179217358848/VgDXG2tv_normal.jpg,,
+1620678360304353280,2023-02-01_16:00:06,"バーチャートレースは、ランキング系の動画で利用されます。
+
+作成方法として、以下があります。・flourish : 無料でバーチャートレースを作成できるWebサービス
+・bar_chart_race : バーチャートレースをPythonで作成するライブラリ
+
+#駆け出しエンジニアと繋がりたい",7,2,1289597831594930176,kakedashiman1,hero｜歴15年ITエンジニア,ITエンジニア【経歴】情報系大学院 ▶︎ IT企業でデータサイエンティスト・データエンジニア ▶︎ 趣味でアプリコンテストに参加し5回受賞 ● IT技術で生活や業務効率化を実現することが好きです ● IT技術(自動化・OSS・クラウド・Pythonなど)に関わることを主につぶやきます。,314,1965,2020-08-02_01:24:25,False,http://pbs.twimg.com/profile_images/1563796622165032960/OdkKfJc4_normal.jpg,,https://t.co/qkea63GDxE
+1620678333028782080,2023-02-01_15:59:59,UPS導入できてないので一旦ラズパイではなくノートでpython稼働してる #TwitFi,3,0,4709311352,fsutututt,ネギ太,,320,149,2016-01-05_00:42:42,False,http://pbs.twimg.com/profile_images/1008219228728463361/6QPzvNkp_normal.jpg,,https://t.co/FGhETfTZgJ
+1620677800385708033,2023-02-01_15:57:53,"RT @akagayohi: #創作百合 
+カノ吸い https://t.co/t0OMIR94fT",0,216,1363472953325744130,kome_the_python,はぜこめ,GLが好き/valorant 800*0.286,110,11,2021-02-21_22:00:07,False,http://pbs.twimg.com/profile_images/1611210379044196353/zvR52tfQ_normal.jpg,,
+1620677772514410496,2023-02-01_15:57:46,"RT @akagayohi: #創作百合
+カノ吸い3
+今月もお疲れ様でした。 https://t.co/k1tsvL975V",0,408,1363472953325744130,kome_the_python,はぜこめ,GLが好き/valorant 800*0.286,110,11,2021-02-21_22:00:07,False,http://pbs.twimg.com/profile_images/1611210379044196353/zvR52tfQ_normal.jpg,,
+1620677585196949505,2023-02-01_15:57:01,リプレース後PCにようやくPython入れたけどこういうのwinでやるの未だに拒否反応ある,10,2,1502468985090359300,mitomeee,あやせまき🍫🍅 / はのち / EXW,ゲームが好きでいろいろやる。またの名をはのち / 遊戯王OCGとMD / 原神 / スプラ / OW / ポケモンポケカ / ずとまよ / #遊戯王note紹介 / マスターデュエルチーム EXTRAWIN (@EXW_MD) 所属,5240,4766,2022-03-12_11:18:26,False,http://pbs.twimg.com/profile_images/1591712052896497667/cUi8kbr7_normal.jpg,,https://t.co/JyIKNwDXLD
+1620677568696569856,2023-02-01_15:56:57,Pythonは春休みに学んで、一学期はJavaかな？,1,0,1366680604733939712,rin_tut21,rin@TUTech発表会アーカイブ編集中,#TUT_Tech 鯖に入りたい人はこちらに→https://t.co/NPwIGSIgVl / AdvancedCreators 写真部 Web担 / 質問箱→https://t.co/r42L8jZI07 縮小@hawk_cat,1670,1362,2021-03-02_18:23:52,False,http://pbs.twimg.com/profile_images/1371695917749788676/cExROTYI_normal.jpg,,https://t.co/n5D5cYVMwe
+1620677424659959810,2023-02-01_15:56:23,大切なのは外の世界とつながること。一人の少年がPythonスペシャリストになるまでの軌跡 - Findy Engineer Lab - ファインディエンジニアラボ https://t.co/LhDZde69xJ,1,0,1280510042425475079,ctr_exe,中トロでっていう,9割9分ひとりごと Unity/Python/ウマ娘 幻覚:@urakuni_asahina,2898,917,2020-07-07_23:33:01,False,http://pbs.twimg.com/profile_images/1386279289998352385/tgQuT0AT_normal.jpg,,https://t.co/Dk00d3xP5V
+1620676495177023488,2023-02-01_15:52:41,"だいぶ慣れてきた👀
+
+#Python と比べると #HTM #CSS は視覚的に動きを確認しながら書けるから、そこまで難しくはないと感じる🤔
+そんで、アニメーションつけるのやっぱ楽しいな
+#プログラミング https://t.co/gnUg8vfSdB",2,0,879060378180763649,FFWE3_3,⚔️D.独男@ただのトレーダー🎮,仕事辞めて福岡住まいでトレードしてる人/初心者はフィボと水平線を極めるべし📊趣味で英語とプログラミング、筋トレ/Amazonほしい物リストから買ってくれた人には勝てるようになるアドバイスする,213,1184,2017-06-26_04:35:01,False,http://pbs.twimg.com/profile_images/1477559701869297665/LwbNPJ41_normal.jpg,,https://t.co/Kx4Wc9iWYR
+1620676308912189440,2023-02-01_15:51:57,@python_volca 日本語おかしい。見られる、でっす。,1,0,442367325,aoiaur_1,葵,"ff14 葵紫苑@タイタン。アイコンの絵はフレのルクスさんに描いてもらいました♪ Copyright (C) 2010 - 2020 SQUARE ENIX CO., LTD. All Rights Reserved.",73,57,2011-12-21_10:49:53,False,http://pbs.twimg.com/profile_images/1272123096669937664/J1aZxq5a_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,
+1620676247155281922,2023-02-01_15:51:42,"@guyverzero1973 こんにちは。突然コメント失礼します。
+自分のタナカ製 COLT Python Rモデルもダブルアクション時にシリンダーが止まらず、
+オーバーランする不具合が出てしまいました。
+最新ロットの物を新品購入して間もないので部品の磨耗は考えにくいです。
+よろしければ調整方法を教えて下さい🙇‍♂️",1,0,1030433130438569986,XYZ56715370,ロマンおじさん@ベリー,"趣味専用アカウントです。
+不便を楽しもう。
+いつかは純正。
+山の民です。
+無言フォローいたします。
+サバゲーマーと繋がりたい。
+ゲームのお誘い待ってます。
+
+チーム　レストランズで活動しています。",1630,1132,2018-08-17_21:36:17,False,http://pbs.twimg.com/profile_images/1235775325210062848/8cbB-BpU_normal.jpg,,
+1620676088367308802,2023-02-01_15:51:04,@python_volca ありがとうございます。ここの場所　いろんな色が見れる〜。,1,0,442367325,aoiaur_1,葵,"ff14 葵紫苑@タイタン。アイコンの絵はフレのルクスさんに描いてもらいました♪ Copyright (C) 2010 - 2020 SQUARE ENIX CO., LTD. All Rights Reserved.",73,57,2011-12-21_10:49:53,False,http://pbs.twimg.com/profile_images/1272123096669937664/J1aZxq5a_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,
+1620675855944151040,2023-02-01_15:50:09,"@grem_ito 参考になればと思い、ブログ記事にDockerfileの内容を記載しました。やってることはpythonビルドだけですが、apt installしているライブラリの情報など照らし合わせると何か見えてくるかもしれません。
+
+https://t.co/Q1qM9O5fMz",2,1,1364074454163156996,tomo_tk11,Tomotaka Yamasaki,エンジニアでゲーム開発に携わっています。前はC++を書いていましたが、最近はQAの領域で活動しています。QAエンジニアやSETに軸足を突っ込んでいます。JSTQB AL TA取得。,141,168,2021-02-23_13:48:18,False,http://pbs.twimg.com/profile_images/1364075227148214273/73B4OdaT_normal.png,,
+1620675776071995398,2023-02-01_15:49:50,"@rikipage_com りっきぃさん初めまして！
+
+こちらまだ配布されてますでしょうか🙇‍♂️
+もしまだ受け取り可能でしたら、ぜひ拝見したいです！
+
+web制作を学習中の身ですが、よろしくお願いいたします🙇‍♂️",1,0,1488881109433602051,Koudai_Python,こうだい@web制作,大企業で開発している30代のCOBOLエンジニア💻 /二児のパパ👨‍👩‍👧‍👧/#デイトラ でweb制作学習中→フリーランスを目指す🧑‍💻/無言フォロー失礼します/リベシティ会員🐬/お仕事のご相談やご依頼はDMまで📩,174,218,2022-02-02_23:25:19,False,http://pbs.twimg.com/profile_images/1579420551973851138/bRJA28-E_normal.jpg,,https://t.co/8VKKAIeZHq
+1620675672917299203,2023-02-01_15:49:25,"Pythonでつくる ゲーム開発 入門講座 Kindle 電子書籍 602
+
+売れ筋です
+https://t.co/4uvZgMqsEg",0,0,1339551319057596416,VIH0tx5iesRxBxN,モモっち(ง ˙˘˙ )ว,Amazonで、今売れている商品をご案内！アマゾンアソシエイト・プログラムの参加者です。,1436,1148,2020-12-17_21:41:39,False,http://pbs.twimg.com/profile_images/1503707859040673795/VaAhuDaH_normal.jpg,,
+1620675653409587205,2023-02-01_15:49:21,"テキストの整形はPython等とエディタでちょっとした置換とかの組み合わせが最強だな…… という
+（どちらかだけでやろうとすると大変になりがち",1,0,49654031,doc1oo,ドク子ちゃん,"Lovely Developer
+( Official is @1oo_games )
+
+- Lovely Composer (音楽ツール)
+- ダンジョンウィッチーズ - 少女の帰宅 (ローグライト)
+- 宝石物語 (JRPG)
+- DotFab (3Dドットツール)",2628,2344,2009-06-23_00:03:35,False,http://pbs.twimg.com/profile_images/1061276016251875328/acusqdMn_normal.jpg,http://abs.twimg.com/images/themes/theme4/bg.gif,https://t.co/iVMTLCEmYV
+1620675541090304001,2023-02-01_15:48:54,"RT @rikipage_com: 【Webデザイナー必見】4週連続無料プレゼント第2段
+『Webデザイナーの求人広告を出してる制作会社リスト』
+▶2週目デザイナー
+3週目ライター
+4週目動画編集者
+
+求人広告出してるって
+人手が確実に足りてないよね？
+探す時間ゼロだよ
+継続案…",0,113,1488881109433602051,Koudai_Python,こうだい@web制作,大企業で開発している30代のCOBOLエンジニア💻 /二児のパパ👨‍👩‍👧‍👧/#デイトラ でweb制作学習中→フリーランスを目指す🧑‍💻/無言フォロー失礼します/リベシティ会員🐬/お仕事のご相談やご依頼はDMまで📩,174,218,2022-02-02_23:25:19,False,http://pbs.twimg.com/profile_images/1579420551973851138/bRJA28-E_normal.jpg,,https://t.co/8VKKAIeZHq
+1620675489735254016,2023-02-01_15:48:42,CもPythonもアプリ開発あるっちゃあるけどandroidアプリの中核がJavaだからそれをアプリ開発って表現したよ,3,0,1497158678419742724,tokku_cs_ai,とっく,B1 TUT CS22 AI すうがくすき 特に離散数学すき 資格オタク AP 電工2 溶接など コンテストとかいっぱい出たい 一日48時間ほしい 本音→ https://t.co/y4sYIi8J8u,345,205,2022-02-25_19:37:13,False,http://pbs.twimg.com/profile_images/1568256404418605058/5zQ2kT4t_normal.jpg,,
+1620674821591031810,2023-02-01_15:46:02,RT @chokudai: 最近はPythonに興味がありそうなので、なんか企画持ちかけられないか検討中。ものを作るのが好きな子なので、たぶんAtCoderそのものへの興味は薄いと思ってて、CodinGameとかでゲームAI制作とかになれば興味持ってもらえそうな気がしてる。必要…,0,9,2257746108,night_kaizer,乳房の勇者ナイトカイザー＠メインヒロインなう,筋肉を錬成したい美少女。将来の夢はジェイソン・ステイサム。ガンランスはロマン。,499,181,2013-12-22_22:53:56,False,http://pbs.twimg.com/profile_images/1262338878142201858/ZzrU4f52_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,
+1620674704595128320,2023-02-01_15:45:34,Pythonのフォーマッターはblack派です　よろしくお願いします,1,0,1254445238958977024,___tanuchan___,たぬ,なめらかで混ぜやすい,390,129,2020-04-27_01:20:34,False,http://pbs.twimg.com/profile_images/1548713773292068865/duwHYMmP_normal.jpg,,https://t.co/ORaS2MTtXv
+1620674569592864772,2023-02-01_15:45:02,[最大50%OFF] 新・明解Pythonで学ぶアルゴリズムとデータ構造 https://t.co/G8hbyjj1jm 著作：柴田 望洋,2,0,1568051324134264834,TechnologyBook8,新刊・人気技術書通知,"IT技術書の発売日にツイートします。
+人気のIT技術書、セール情報をツイートします。
+最新のIT技術書をチェックしたい方はフォローお願いします。
+Amazonのアソシエイトとして、技術書は適格販売により収入を得ています。",1349,1012,2022-09-09_10:39:39,False,http://pbs.twimg.com/profile_images/1568058814976630785/mHX8kFqK_normal.png,,
+1620674495890743296,2023-02-01_15:44:45,@MOOMINLOVERS_ c言語？python？とか？？,1,0,873527793207853056,Gqlchq,がるしぃ〜𓆩？𓆪,"Apex￤S1~￤ボセック任せて下さい￤Pathfinder 10,000kill￤スプラ▷▶︎@Gqlkun",134,151,2017-06-10_22:10:30,False,http://pbs.twimg.com/profile_images/1549329084773441537/iOoh9-6L_normal.jpg,,
+1620674444179173377,2023-02-01_15:44:32,"Ubuntuでppa:deadsnakesからシステムのとは違うバージョンのpythonを入れると、両者のsys.pathに/usr/lib/python3/dist-packagesが含まれていて共用されるのは正気の沙汰とは思えんが、by designみたい。ソースからビルドしろってことかな
+https://t.co/j2SxfjW8yt",1,1,308972555,nu774_,nu774,"地方の中小企業のプログラマ。
+https://t.co/1Y6WrvR8RS",106,107,2011-06-01_18:33:19,False,http://pbs.twimg.com/profile_images/607357172498890752/HBPS0yVw_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,https://t.co/e6PaFX17y9
+1620674086883172353,2023-02-01_15:43:07,"@mi_chiebukuro みーちゃんさん
+お久しぶりですー😆✨",1,0,1579476085745405953,python_begin,パイソン初学者@暗号資産は現物,アラフォー投資家｜投資歴5年目｜Python初学｜暗号資産｜日本株｜web3｜NFT｜資産形成｜簿記3級｜ハンターハンター好き｜お気軽にフォローして下さい✨,166,446,2022-10-10_23:18:10,False,http://pbs.twimg.com/profile_images/1609940760874594304/Bo3O6aaM_normal.jpg,,
+1620673977290207238,2023-02-01_15:42:41,"pythonって初心者は使いやすいし、
+上級者は、numpyとかライブラリ作って高速化するモチベを沸かせばいいし、
+垣根が広くて良さを感じる",4,1,979949136223981568,tamase4,jun,aiエンジニア、aws SAP 、devops pro 持ち、統計、微積、線形代数、スクラムマスター、ビッグデータ、クリーンアーキテクチャ、麻雀、将棋,1206,525,2018-03-31_14:10:55,False,http://pbs.twimg.com/profile_images/1122166784381992960/Nc_KAq6h_normal.jpg,,
+1620673327970025473,2023-02-01_15:40:06,"クイズ
+
+Python で 16進数の値を基数 16 の整数定数としてどのように表現しますか?
+
+答え：0xa5
+
+#Python #プログラミング",4,0,1265238433716252673,mhPZPibVjOUsZaZ,コバ【収入自動化の専門家】,【初心者から収入を半自動化した元会社員】▶︎会社員手取り26万。人間関係のストレスで憂鬱に■アフィリエイトの集客を自動化し月20万達成。収益継続中。■通勤や憂鬱な人間関係から逃げたいの一心で頑張った人 ▶︎アフィリエイトのテンプレ無料配布👇　#アフィリエイト #プログラミング,207,108,2020-05-26_20:08:54,False,http://pbs.twimg.com/profile_images/1619599268045811712/Z5LED0yl_normal.jpg,,
+1620673180749938691,2023-02-01_15:39:31,記事を投稿しました！ LogiCOMPOSERでFUSIONを試す！（検証編） [Python] on #Qiita https://t.co/hcFnJXJJfo,2,0,214440761,wadaken1961,Kenichiro Wada,,44,14,2010-11-11_21:17:19,False,http://pbs.twimg.com/profile_images/1472494602548813825/NDhH3Ltj_normal.jpg,http://abs.twimg.com/images/themes/theme16/bg.gif,http://t.co/nVyIb5N2Ob
+1620673060872523777,2023-02-01_15:39:03,記事を投稿しました！ LogiCOMPOSERでFUSIONを試す！（準備編） [Python] on #Qiita https://t.co/PeXoqKPrYF,2,0,214440761,wadaken1961,Kenichiro Wada,,44,14,2010-11-11_21:17:19,False,http://pbs.twimg.com/profile_images/1472494602548813825/NDhH3Ltj_normal.jpg,http://abs.twimg.com/images/themes/theme16/bg.gif,http://t.co/nVyIb5N2Ob
+1620673025120280576,2023-02-01_15:38:54,"@urawakitti 数理最適化問題として解けませんか？
+
+python pulpとかでググってみてはいかがでしょう",1,0,1248653286078418944,hknskn3,hkns,UE5/投資/ウマ娘/競技プログラミング/将棋ウォーズ3級/ディスガイア/ツムツム /ぷよぷよ/beatmania/ 勝手にフォローします。,493,276,2020-04-11_01:45:27,False,http://pbs.twimg.com/profile_images/1473814299588325376/KseSHOBY_normal.jpg,,
+1620672477193203713,2023-02-01_15:36:43,せっかく懐かしい友の顔が拝めると思ったのに...　...なあ、スネーク。　我が存在理由よ,0,0,316424463,PYTHON_bot,パイソン,ゲーム「メタルギアソリッド　ポータブルオプス」に登場する、FOX隊員であり　絶対零度の最強兵士　のパイソンの非公式。　※不具合注意　,5,52,2011-06-13_21:41:05,False,http://pbs.twimg.com/profile_images/1394032171/Python_qjpreviewth_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,
+1620671954801029121,2023-02-01_15:34:39,"大好きなHaskellとかいうパワーワード
+
+んなもんいらんからプログラミングIは是非とも後輩のためにPythonにしてください",2,0,1133295485916024832,takayama_0535,九州産とろーり煮穴子,田舎者 まったくの赤の他人に敬語を使えない人間が1番嫌いです　APEXダイヤ床ぺろ,748,194,2019-05-28_17:54:34,False,http://pbs.twimg.com/profile_images/1618917293026869250/Tg9pPLHB_normal.jpg,,
