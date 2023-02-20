@@ -4,7 +4,16 @@
 テーマ：Twitterのバズり予測（仮）
 
 ## 目次
-1. [Githubの使い方](#Github)
+
+1. [スクレイピング結果の保存先](#save_scraping)
+2. [Githubの使い方](#Github)
+
+<a id='save_scraping'></a>
+
+## スクレイピング結果の保存先
+以下のリンクに保存してあるので、そこからダウンロードしてください。  
+
+https://drive.google.com/drive/folders/1pvXVQoCvPzaNyV9-ndThjm2AfCxYHZ-5?usp=sharing
 
 <a id='Github'></a>
 
