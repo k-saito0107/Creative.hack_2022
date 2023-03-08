@@ -12,7 +12,7 @@ RUN wget --no-check-certificate https://www.python.org/ftp/python/3.9.5/Python-3
     && make install
 
 RUN apt-get autoremove -y
-RUN pip3 install jupyterlab
+RUN pip3 install notebook
 RUN pip3 install --upgrade pip
 RUN pip3 install --upgrade pip
 RUN pip3 install numpy
